@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = fundacionviveelpatrimonio@gmail.com
+	name = giselalopez
